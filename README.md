@@ -1,4 +1,4 @@
-# Naz Demirsoy
+# Hi, I'm Naz Demirsoy <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 As a System Analyst at ExxonMobil, I led the development of an internal product using the OutSystems platform, a low-code solution that enables rapid and agile delivery. I integrated emerging business requirements to optimize product functionality, and actively engaged with end-users to collate feedback, driving continuous product improvements based on their insights. I strategically planned and prioritized product releases to align with organizational goals and user demands.
 
