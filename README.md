@@ -7,7 +7,7 @@
 <h2 align="left">About me</h2>
 
 ###
-<p align="left">🔭 I’m working as Full Stack Developer at ExxonMobil Hungary. <br>📚 I'm currently interested in Mobile App Development so I'm learning React and building Mobile Applications.<br></p>
+<p align="left">🔭 I'm interested in Mobile App Development so I'm learning React and building Mobile Applications.<br></p>
 
 ###
 
